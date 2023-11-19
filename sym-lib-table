@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "keyboard_parts")(type "KiCad")(uri "${KIPRJMOD}/keyboard_parts.pretty/ESP32-C3FH4.kicad_sym")(options "")(descr ""))
+  (lib (name "mkl27z256vfm4")(type "Legacy")(uri "${KIPRJMOD}/kicad_lib_tmk-master/mkl27z256vfm4.lib")(options "")(descr ""))
+  (lib (name "keyboard_parts2")(type "Legacy")(uri "${KIPRJMOD}/kicad_lib_tmk-master/keyboard_parts2.lib")(options "")(descr ""))
+  (lib (name "MAX77301EWAT")(type "KiCad")(uri "${KIPRJMOD}/keyboard_parts.pretty/MAX77301EWAT.kicad_sym")(options "")(descr ""))
+)
