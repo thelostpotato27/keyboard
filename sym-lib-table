@@ -6,4 +6,7 @@
   (lib (name "MAX77301EWAT")(type "KiCad")(uri "${KIPRJMOD}/keyboard_parts.pretty/MAX77301EWAT.kicad_sym")(options "")(descr ""))
   (lib (name "AP9101CAK6-ALTRG1")(type "KiCad")(uri "${KIPRJMOD}/keyboard_parts.pretty/AP9101CAK6-ALTRG1.kicad_sym")(options "")(descr ""))
   (lib (name "MYRBP250080B21RE")(type "KiCad")(uri "${KIPRJMOD}/keyboard_parts.pretty/MYRBP250080B21RE.kicad_sym")(options "")(descr ""))
+  (lib (name "FFC2B35-16-G_REVA2")(type "KiCad")(uri "${KIPRJMOD}/keyboard_parts.pretty/FFC2B35-16-G_REVA2.kicad_sym")(options "")(descr ""))
+  (lib (name "FDN335N")(type "KiCad")(uri "${KIPRJMOD}/keyboard_parts.pretty/FDN335N.kicad_sym")(options "")(descr ""))
+  (lib (name "FDN338P")(type "KiCad")(uri "${KIPRJMOD}/keyboard_parts.pretty/FDN338P.kicad_sym")(options "")(descr ""))
 )
