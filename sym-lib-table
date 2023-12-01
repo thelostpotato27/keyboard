@@ -9,4 +9,5 @@
   (lib (name "FFC2B35-16-G_REVA2")(type "KiCad")(uri "${KIPRJMOD}/keyboard_parts.pretty/FFC2B35-16-G_REVA2.kicad_sym")(options "")(descr ""))
   (lib (name "FDN335N")(type "KiCad")(uri "${KIPRJMOD}/keyboard_parts.pretty/FDN335N.kicad_sym")(options "")(descr ""))
   (lib (name "FDN338P")(type "KiCad")(uri "${KIPRJMOD}/keyboard_parts.pretty/FDN338P.kicad_sym")(options "")(descr ""))
+  (lib (name "CY8C6347BZI-BLD33")(type "KiCad")(uri "${KIPRJMOD}/keyboard_parts.pretty/CY8C6347BZI-BLD33.kicad_sym")(options "")(descr ""))
 )
