@@ -11,4 +11,5 @@
   (lib (name "FDN338P")(type "KiCad")(uri "${KIPRJMOD}/keyboard_parts.pretty/FDN338P.kicad_sym")(options "")(descr ""))
   (lib (name "CY8C6347BZI-BLD33")(type "KiCad")(uri "${KIPRJMOD}/keyboard_parts.pretty/CY8C6347BZI-BLD33.kicad_sym")(options "")(descr ""))
   (lib (name "ESP32-S3-WROOM-1-N16R2")(type "KiCad")(uri "${KIPRJMOD}/keyboard_parts.pretty/ESP32-S3-WROOM-1-N16R2.kicad_sym")(options "")(descr ""))
+  (lib (name "VBUS54CV-HSF-G4-08")(type "KiCad")(uri "${KIPRJMOD}/keyboard_parts.pretty/VBUS54CV-HSF-G4-08.kicad_sym")(options "")(descr ""))
 )
