@@ -2251,6 +2251,7 @@
   (no_connect (at 43.18 85.09) (uuid 1189072d-b91d-44c3-b4a0-6b0e9b1ed5d2))
   (no_connect (at 43.18 62.23) (uuid 254d03df-a88a-49fa-88f5-6d9b89b1a692))
   (no_connect (at 43.18 64.77) (uuid 2b10dad5-0098-4c0d-abe3-a30e1a7bee41))
+  (no_connect (at 20.32 95.25) (uuid 2d0c6ab0-6a1b-4641-9ecf-a0bb18d78480))
   (no_connect (at 43.18 57.15) (uuid 4c8dedc2-0ad7-47ac-bcd4-390829a70110))
   (no_connect (at 43.18 54.61) (uuid 4e3e325e-9c38-4e06-90a0-54eeca55715a))
   (no_connect (at 19.05 143.51) (uuid 5a6da6f6-2779-4b23-906f-b24b9f5ed96d))
@@ -4140,31 +4141,6 @@
       (project "Keyboard"
         (path "/0c6e22c2-b00a-47ce-bc43-0c577bef5c57"
           (reference "D1") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 20.32 95.25 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 99ce5847-4c70-4034-9697-6cb86267ae80)
-    (property "Reference" "#PWR07" (at 20.32 101.6 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 20.32 100.33 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 20.32 95.25 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 20.32 95.25 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid c414cc93-310e-40e1-a404-44e2216f316f))
-    (instances
-      (project "Keyboard"
-        (path "/0c6e22c2-b00a-47ce-bc43-0c577bef5c57"
-          (reference "#PWR07") (unit 1)
         )
       )
     )
